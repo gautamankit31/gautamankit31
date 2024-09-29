@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitrajmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ankitrajmishra" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@ankit_mishra" target="blank"><img src="https://img.shields.io/twitter/follow/@ankit_mishra?logo=twitter&style=for-the-badge" alt="@ankit_mishra" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@gautamankit31" target="blank"><img src="https://img.shields.io/twitter/follow/@gautamankit31?logo=twitter&style=for-the-badge" alt="@gautamankit31" /></a> </p>
 
 - 🔭 I’m currently working on **Full Stack Web Apps**  
 - 🌱 I’m learning **German, Data Structures, Algorithms, Java, React, and MERN Stack**  
@@ -17,10 +17,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@ankit_mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ankit_mishra" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ankit-raj-mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit-raj-mishra" height="30" width="40" /></a>
-<a href="https://fb.com/ankit.mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ankit.mishra" height="30" width="40" /></a>
-<a href="https://instagram.com/ankit.mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankit.mishra" height="30" width="40" /></a>
+<a href="https://twitter.com/@gautamankit31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ankit_mishra" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gautamankit31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit-raj-mishra" height="30" width="40" /></a>
+<a href="https://fb.com/gautamankit31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ankit.mishra" height="30" width="40" /></a>
+<a href="https://instagram.com/gautamankit31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankit.mishra" height="30" width="40" /></a>
 </p>
 
 ---
@@ -72,18 +72,9 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitrajmishra&show_icons=true&theme=radical" alt="Ankit's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitrajmishra&theme=radical" alt="Ankit's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gautamankit31a&show_icons=true&theme=radical" alt="Ankit's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gautamankit31&theme=radical" alt="Ankit's GitHub Streak" />
 </p>
-
----
-
-<h3 align="left">Some of my featured projects:</h3>
-<ul>
-  <li><a href="https://github.com/ankitrajmishra/project-management-app">Project Management App</a></li>
-  <li><a href="https://github.com/ankitrajmishra/plant-care-app">Plant Care App</a></li>
-  <li><a href="https://github.com/ankitrajmishra/to-do-list">To-Do List App</a></li>
-</ul>
 
 ---
 
