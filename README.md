@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitrajmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ankitrajmishra" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gautamankit31&label=Profile%20views&color=0e75b6&style=flat" alt="gautamankit31" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@gautamankit31" target="blank"><img src="https://img.shields.io/twitter/follow/@gautamankit31?logo=twitter&style=for-the-badge" alt="@gautamankit31" /></a> </p>
 
@@ -72,7 +72,7 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gautamankit31a&show_icons=true&theme=radical" alt="Ankit's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gautamankit31&show_icons=true&theme=radical" alt="Ankit's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gautamankit31&theme=radical" alt="Ankit's GitHub Streak" />
 </p>
 
