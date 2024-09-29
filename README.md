@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on **Full Stack Web Apps**  
 - 🌱 I’m learning **German, Data Structures, Algorithms, Java, React, and MERN Stack**  
 - 💬 Ask me about **DSA, Web Development, Full-Stack Projects**  
-- 📫 Reach me at **mishra.ankitraj123@gmail.com**
+- 📫 Reach me at **ankitmishra96889@gmail.com**
 
 ---
 
